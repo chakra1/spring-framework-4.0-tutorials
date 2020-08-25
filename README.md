@@ -1,5 +1,5 @@
 # spring-framework-4.0-tutorials
-Spring Framework 4.0 Tutorials
+Spring Framework 4.0 Concepts covered in these tutorials - 
 
 * Container Basics
 * Dependency Injection and IoC (Inversion of Control)
