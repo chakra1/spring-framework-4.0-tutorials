@@ -1,2 +1,13 @@
 
 # Install Spring Tool Suite / STS
+
+STS is an Eclipse-based development environment used for developing Spring applications.
+
+By using STS, we can develop Java Standard Edition or Spring-based applications or We can also develop Spring-based Web applications.
+
+STS provides functionalities for Spring applications - Develop, Run, Debug and Test
+
+## Download Spring Tools Suite for the developer OS environment
+
+# Go to https://spring.io/tools. Select the desired OS environment. For Windows-OS, select Windows 64-Bit
+# Also make sure, you have at least Java SE 8u45 JDK being installed. Not the JRE.
